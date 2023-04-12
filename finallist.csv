@@ -1,0 +1,391 @@
+Apttus Apttus
+Apttus - Monthly Charge Tie Out - Child Apttus - Child  -    Apttus
+Single Load to Table Single Load to Table Single Load to Table  
+CareBI - Cred Location and License CareBI - Cred Location and License  -  CareBI
+CareBI - Expireables - DEA-CDS CareBI - DEA-CDS  -  CareBI
+CareBI - Insurance Plans Listing CareBI - Insurance Plans Listing  -  CareBI
+CareBI - Ops Management Report - Master CareBI - Master  - 
+Time_series_covid19_confirmed_US Time_series_covid19_confirmed_US Time_series_covid19_confirmed_US  
+
+Customer Voice Customer Voice
+Sync Dataverse -  Daily Sync Dataverse -  Daily
+Sync Dataverse msfp_questionresponse Sync Dataverse msfp_questionresponse
+Sync Dataverse msfp_surveyinvite Sync Dataverse msfp_surveyinvite
+Sync Dataverse msfp_surveyresponse Sync Dataverse msfp_surveyresponse
+EDI X12 EDI X12
+EDI 835 EDI 835 EDI 835   EDI
+Enterprise Analyitics Enterprise Analyitics
+CONDUCTOR of HS Productivity CONDUCTOR of HS Productivity CONDUCTOR of HS Productivity  
+CONDUCTOR of REFRESH Daily CONDUCTOR of REFRESH Daily CONDUCTOR of REFRESH Daily  
+CONDUCTOR of REFRESH Monthly on 6th day CONDUCTOR of REFRESH Monthly on 6th day CONDUCTOR of REFRESH Monthly on 6th day  
+CONDUCTOR of REFRESH Wednesday night CONDUCTOR of REFRESH Wednesday night CONDUCTOR of REFRESH Wednesday night  
+Ambulatory Patient Experience Ambulatory Patient Patient Experience
+Ambulatory get unique practiceId Ambulatory get unique practiceId
+Ambulatory Patient Experience Ambulatory Patient Experience
+Ambulatory Patient Experience - DateRange Ambulatory Patient Experience - DateRange
+Ambulatory Patient Experience PG - OLD Ambulatory Patient Experience PG - OLD
+Ambulatory Scheduling Ambulatory Scheduling
+Ambulatory Scheduling Ambulatory Scheduling
+Email Read Reports Email Read Read Reports
+Email Read Reports Email Read Reports
+enterprisedataroom-prod-c-sql-s DataMart enterprisedataroom-prod-c-sql-s DataMart
+DataMart Finance -  Weekly DataMart Finance -  Weekly
+DataMart Finance -  Weekly_copy1 DataMart Finance -  Weekly_copy1
+DataMart Finance -  Weekly_JSmith DataMart Finance -  Weekly_JSmith
+DataMart get Table s DataMart get Table s
+DataMart MasterData -  One time DataMart MasterData -  One time
+DataMart MasterData -  Weekly DataMart MasterData -  Weekly
+Financial Data Financial Data
+Get Financial data - Mednax DEPRECATED Get Financial data - Mednax DEPRECATED
+HS Productivity HS Productivity
+HS_dataSoundata DEPRECATED HS_dataSoundata DEPRECATED
+HS Business Unit Audit Report Transfers - Child HS Business Unit Audit Report Transfers - Child
+HS Business Unit Audit Report Transfers - Master HS Business Unit Audit Report Transfers - Master
+HS StaffListing - Child HS StaffListing - Child
+HS StaffListing - Master HS StaffListing - Master
+HS Survey HS Survey
+HS Survey - Daily HS Survey - Daily
+HS Survey - Weekly HS Survey - Weekly
+Payer Contracting Analytics Payer Contracting Contracting Analytics
+cofindwdb01p FinDB_DM -  Weekly cofindwdb01p FinDB_DM -  Weekly
+cofindwdb01p Reference_DM -  Weekly cofindwdb01p Reference_DM -  Weekly
+Queries from on-prems Queries from from on-prems Queries from on-prems
+NG Claim hold by provider NG Claim hold by provider
+OBR Billed and Unbilled OBR Billed and Unbilled
+
+R1 Exports to SFTP R1 Exports to SFTP
+R1_Export Email to Blob R1_Export Email to Blob
+R1_Export PowerQuery R1_Export PowerQuery
+R1_GPMS AR balance R1_GPMS AR balance
+R1_KPI 1 Insurance Aged AR R1_KPI 1 Insurance Aged AR
+Functions Functions
+R1 SFTP Upload and Process R1 SFTP Upload and Process
+R1WebLogExport R1WebLogExport
+RCM - KPI RCM - KPI
+KPI 1 - Insurance Aged AR Days - GMPS Aging KPI 1 - GMPS Aging
+KPI 1 - Insurance Aged AR Days - GMPS Aging - Manual Forced KPI 1 - Manual Forced
+KPI 2 - Initial Denials - Sundays KPI 2 - Sundays
+KPI 2 - Initial Denials Historical - Monthly KPI 2 - Monthly
+KPIs run on every Sunday KPIs run on every Sunday
+RCM - KPI Sharepoint to SQL RCM - KPI Sharepoint to SQL
+Run KPIs on specific business days of a month Run KPIs on specific business days of a month
+RCM - Productivity RCM - Productivity
+1s3kdss01 Fin_Reports View_Que_Accounts 1s3kdss01 Fin_Reports View_Que_Accounts
+Que Accounts - Import Historical Data Que Accounts - Import Historical Data
+RCM Unbilled RCM Unbilled
+Last data refresh of a report Last data refresh of a report
+RCM_AccountTotal RCM_AccountTotal
+RCM_ActiveHoldsDeletedCharges RCM_ActiveHoldsDeletedCharges
+RCM_CMCoders RCM_CMCoders
+RCM_CMPatientAccess RCM_CMPatientAccess
+RCM_CPT RCM_CPT
+RCM_DataRepair RCM_DataRepair
+RCM_LatestActionDate RCM_LatestActionDate
+RCM_OBR_DailyUnbilled RCM_OBR_DailyUnbilled
+RCM_OBR_DailyUnbilled_HISTORICAL RCM_OBR_DailyUnbilled_HISTORICAL
+RCM_RegEdits RCM_RegEdits
+RCM_UnbilledReg RCM_UnbilledReg
+RCM xlsx from BLOB to Azure - Child RCM xlsx from BLOB to Azure - Child
+RCM xlsx from BLOB to Azure - Master RCM xlsx from BLOB to Azure - Master
+Server 1EMRREPSQL01 NGPROD Server 1EMRREPSQL01 1EMRREPSQL01 NGPROD
+1EMRREPSQL01 NGPROD_DM claim_charges 1EMRREPSQL01 NGPROD_DM claim_charges
+1EMRREPSQL01 NGPROD_DM claim_charges FULL 1EMRREPSQL01 NGPROD_DM claim_charges FULL
+1EMRREPSQL01 NGPROD_DM claim_detail 1EMRREPSQL01 NGPROD_DM claim_detail
+1EMRREPSQL01 NGPROD_DM claim_detail FULL 1EMRREPSQL01 NGPROD_DM claim_detail FULL
+1EMRREPSQL01 NGPROD_DM OBX_Elec_Sig_ 1EMRREPSQL01 NGPROD_DM OBX_Elec_Sig_
+1EMRREPSQL01 NGPROD_DM Patient_Procedure 1EMRREPSQL01 NGPROD_DM Patient_Procedure
+1EMRREPSQL01 NGPROD_DM PDX_Finalize_ 1EMRREPSQL01 NGPROD_DM PDX_Finalize_
+Server 1EMRREPSQL01 NGPROD - mimicking 1odm01 Server 1EMRREPSQL01 NGPROD - mimicking 1EMRREPSQL01 NGPROD - mimicking 1odm01
+1EMRREPSQL01 NGPROD -  1EMRREPSQL01 NGPROD - 
+1EMRREPSQL01 NGPROD -  FULL 1EMRREPSQL01 NGPROD -  FULL
+1EMRREPSQL01 NGPROD -  Weekly 1EMRREPSQL01 NGPROD -  Weekly
+1EMRREPSQL01 NGPROD appointments 1EMRREPSQL01 NGPROD appointments
+1EMRREPSQL01 NGPROD charges 1EMRREPSQL01 NGPROD charges
+1EMRREPSQL01 NGPROD code_ 1EMRREPSQL01 NGPROD code_
+1EMRREPSQL01 NGPROD cpt4_code_mstr 1EMRREPSQL01 NGPROD cpt4_code_mstr
+1EMRREPSQL01 NGPROD en_payer 1EMRREPSQL01 NGPROD en_payer
+1EMRREPSQL01 NGPROD events 1EMRREPSQL01 NGPROD events
+1EMRREPSQL01 NGPROD fin_class_stmt_lib_mstr 1EMRREPSQL01 NGPROD fin_class_stmt_lib_mstr
+1EMRREPSQL01 NGPROD intrf_location_mstr 1EMRREPSQL01 NGPROD intrf_location_mstr
+1EMRREPSQL01 NGPROD intrf_mstr_lists 1EMRREPSQL01 NGPROD intrf_mstr_lists
+1EMRREPSQL01 NGPROD intrf_payer_mstr 1EMRREPSQL01 NGPROD intrf_payer_mstr
+1EMRREPSQL01 NGPROD intrf_provider_mstr 1EMRREPSQL01 NGPROD intrf_provider_mstr
+1EMRREPSQL01 NGPROD location_mstr 1EMRREPSQL01 NGPROD location_mstr
+1EMRREPSQL01 NGPROD mstr_lists 1EMRREPSQL01 NGPROD mstr_lists
+1EMRREPSQL01 NGPROD patient_en 1EMRREPSQL01 NGPROD patient_en
+1EMRREPSQL01 NGPROD payer_mstr 1EMRREPSQL01 NGPROD payer_mstr
+1EMRREPSQL01 NGPROD person 1EMRREPSQL01 NGPROD person
+1EMRREPSQL01 NGPROD person_payer 1EMRREPSQL01 NGPROD person_payer
+1EMRREPSQL01 NGPROD practice 1EMRREPSQL01 NGPROD practice
+1EMRREPSQL01 NGPROD service__mstr 1EMRREPSQL01 NGPROD service__mstr
+1EMRREPSQL01 NGPROD task_en_xref 1EMRREPSQL01 NGPROD task_en_xref
+1EMRREPSQL01 NGPROD task_mstr 1EMRREPSQL01 NGPROD task_mstr
+1EMRREPSQL01 NGPROD user_mstr 1EMRREPSQL01 NGPROD user_mstr
+Server 1odm01 NGPROD_DM (deprecated) Server 1odm01 NGPROD_DM (deprecated)
+1odm01 NGPROD_DM -  1odm01 NGPROD_DM - 
+1odm01 NGPROD_DM -  Weekly 1odm01 NGPROD_DM -  Weekly
+1odm01 NGPROD_DM appointments 1odm01 NGPROD_DM appointments
+1odm01 NGPROD_DM charges 1odm01 NGPROD_DM charges
+1odm01 NGPROD_DM en_payer 1odm01 NGPROD_DM en_payer
+1odm01 NGPROD_DM fact_appointment_details 1odm01 NGPROD_DM fact_appointment_details
+1odm01 NGPROD_DM patient_en 1odm01 NGPROD_DM patient_en
+1odm01 NGPROD_DM person 1odm01 NGPROD_DM person
+1odm01 NGPROD_DM person_payer 1odm01 NGPROD_DM person_payer
+1odm01 NGPROD_DM vwFact_PracOps_PatientCharges 1odm01 NGPROD_DM vwFact_PracOps_PatientCharges
+Server 1onbasesql01 OnBase Server 1onbasesql01 1onbasesql01 OnBase
+1onbasesql01 OnBase -  1onbasesql01 OnBase - 
+1onbasesql01 OnBase data 1onbasesql01 OnBase data
+Server 1s3kdss01 Fin_Reports Server 1s3kdss01 1s3kdss01 Fin_Reports
+1s3kdss01_Query_Monthly_Cash 1s3kdss01_Query_Monthly_Cash
+1s3kdss01_Query_RCM_Multi_Insurance_Payment 1s3kdss01_Query_RCM_Multi_Insurance_Payment
+1s3kdss01 Fin_Reports -  1s3kdss01 Fin_Reports - 
+1s3kdss01 Fin_Reports -  Monthly 1s3kdss01 Fin_Reports -  Monthly
+1s3kdss01 Fin_Reports -  Weekly 1s3kdss01 Fin_Reports -  Weekly
+1s3kdss01 Fin_Reports AR_Summary 1s3kdss01 Fin_Reports AR_Summary
+1s3kdss01 Fin_Reports Billing_Admissions 1s3kdss01 Fin_Reports Billing_Admissions
+1s3kdss01 Fin_Reports Case Logs 1s3kdss01 Fin_Reports Case Logs
+1s3kdss01 Fin_Reports Charge_Summary 1s3kdss01 Fin_Reports Charge_Summary
+1s3kdss01 Fin_Reports Charge_Summary - DEPRECATED 1s3kdss01 Fin_Reports Charge_Summary - DEPRECATED
+1s3kdss01 Fin_Reports Charge_Summary GETALL 1s3kdss01 Fin_Reports Charge_Summary GETALL
+1s3kdss01 Fin_Reports Hold_Accrual_History 1s3kdss01 Fin_Reports Hold_Accrual_History
+1s3kdss01 Fin_Reports NG_Charges_Details 1s3kdss01 Fin_Reports NG_Charges_Details
+1s3kdss01 Fin_Reports NG_Patients 1s3kdss01 Fin_Reports NG_Patients
+1s3kdss01 Fin_Reports NG_Trans 1s3kdss01 Fin_Reports NG_Trans
+1s3kdss01 Fin_Reports NG_Trans GETALL 1s3kdss01 Fin_Reports NG_Trans GETALL
+1s3kdss01 Fin_Reports OON Queries 1s3kdss01 Fin_Reports OON Queries
+1s3kdss01 Fin_Reports or_Gpms_Accounts 1s3kdss01 Fin_Reports or_Gpms_Accounts
+1s3kdss01 Fin_Reports Reporting_Allowables 1s3kdss01 Fin_Reports Reporting_Allowables
+1s3kdss01 Fin_Reports SNAPSHOT 1s3kdss01 Fin_Reports SNAPSHOT
+1s3kdss01 Fin_Reports Trans_Current 1s3kdss01 Fin_Reports Trans_Current
+1s3kdss01 Fin_Reports Trans_Current - DEPRECATED 1s3kdss01 Fin_Reports Trans_Current - DEPRECATED
+dataCensus dataCensus
+ONLY SNAPSHOTS ONLY SNAPSHOTS
+1s3kdss01 Fin_Reports NG_Trans SNAPSHOT Pre2015 1s3kdss01 Fin_Reports NG_Trans SNAPSHOT Pre2015
+1s3kdss01 Fin_Reports Trans_Current SNAPSHOT Pre2015 1s3kdss01 Fin_Reports Trans_Current SNAPSHOT Pre2015
+Server 1s3kdss01 Hospital_Contracts Server 1s3kdss01 1s3kdss01 Hospital_Contracts
+1s3kdss01 Hospital_Contracts -  1s3kdss01 Hospital_Contracts - 
+Server 1s3kdss01 PDX_Main Server 1s3kdss01 1s3kdss01 PDX_Main
+1s3kdss01 PDX_Main -  1s3kdss01 PDX_Main - 
+1s3kdss01 PDX_Main -  Monthly 1s3kdss01 PDX_Main -  Monthly
+1s3kdss01 PDX_Main -  Weekly 1s3kdss01 PDX_Main -  Weekly
+1s3kdss01 PDX_Main Account_ 1s3kdss01 PDX_Main Account_
+1s3kdss01 PDX_Main Billing_Admissions 1s3kdss01 PDX_Main Billing_Admissions
+1s3kdss01 PDX_Main Billing_Details 1s3kdss01 PDX_Main Billing_Details
+1s3kdss01 PDX_Main Billing_Headers 1s3kdss01 PDX_Main Billing_Headers
+1s3kdss01 PDX_Main Billing_Patients 1s3kdss01 PDX_Main Billing_Patients
+1s3kdss01 PDX_Main Contract_Comments 1s3kdss01 PDX_Main Contract_Comments
+1s3kdss01 PDX_Main ERA_Claim_Payment 1s3kdss01 PDX_Main ERA_Claim_Payment
+1s3kdss01 PDX_Main ERA_GPMS_POSTING 1s3kdss01 PDX_Main ERA_GPMS_POSTING
+1s3kdss01 PDX_Main ERA_Service_Line 1s3kdss01 PDX_Main ERA_Service_Line
+1s3kdss01 PDX_Main Patient_Payers 1s3kdss01 PDX_Main Patient_Payers
+1s3kdss01 PDX_Main Pending_Reg_Holds 1s3kdss01 PDX_Main Pending_Reg_Holds
+1s3kdss01 PDX_Main Reporting_OBR_Fees 1s3kdss01 PDX_Main Reporting_OBR_Fees
+1s3kdss01 PDX_Main Schedule_Template_Details 1s3kdss01 PDX_Main Schedule_Template_Details
+Server 1s3krepdist01 PDX_Main Server 1s3krepdist01 1s3krepdist01 PDX_Main
+1s3krepdist01 PDX_Main -  1s3krepdist01 PDX_Main - 
+Server COCLINICDWDB01P Server COCLINICDWDB01P
+BS_V_Diagnosis BS_V_Diagnosis
+CDW_vw_outcome_master_table CDW_vw_outcome_master_table
+Server cofindwdb01p CRM_DM Server cofindwdb01p cofindwdb01p CRM_DM
+cofindwdb01p CRM_DM - SALESFORCE  cofindwdb01p CRM_DM - SALESFORCE 
+Server cofindwdb01p FinancialDW Server cofindwdb01p cofindwdb01p FinancialDW
+cofindwdb01p FinancialDW -  Weekly cofindwdb01p FinancialDW -  Weekly
+dimPAU dimPAU
+J-E Trans J-E Trans
+tmpPAUMap tmpPAUMap
+Server cofindwdb01p HR_DM Server cofindwdb01p cofindwdb01p HR_DM
+cofindwdb01p HR_DM -  Weekly cofindwdb01p HR_DM -  Weekly
+Server cofindwdb01p Lawson Server cofindwdb01p cofindwdb01p Lawson
+cofindwdb01p Lawson -  Weekly cofindwdb01p Lawson -  Weekly
+Server COFINDWDB01P Reference_DM Server COFINDWDB01P COFINDWDB01P Reference_DM
+cofindwdb01p ReferenceDM -  Weekly cofindwdb01p ReferenceDM -  Weekly
+Server cosounddb01p Soundata Server cosounddb01p cosounddb01p Soundata
+cosounddb01p Soundata -  cosounddb01p Soundata - 
+cosounddb01p Soundata Comments cosounddb01p Soundata Comments
+cosounddb01p Soundata Hearing_Screen_Rollup cosounddb01p Soundata Hearing_Screen_Rollup
+cosounddb01p Soundata Patients cosounddb01p Soundata Patients
+cosounddb01p Soundata SLATS_trans cosounddb01p Soundata SLATS_trans
+cosounddb01p Soundata SLATS_Trans_Comments cosounddb01p Soundata SLATS_Trans_Comments
+cosounddb01p Soundata Summary_Hearing_Screen cosounddb01p Soundata Summary_Hearing_Screen
+cosounddb01p Soundata Summary_Hearing_Screen FULL REFRESH cosounddb01p Soundata Summary_Hearing_Screen FULL REFRESH
+cosounddb01p Soundata Summary_Patient_Demographics_Section_1 cosounddb01p Soundata Summary_Patient_Demographics_Section_1
+cosounddb01p Soundata tbl_Summary_Patient_Demographics_Section_9 cosounddb01p Soundata tbl_Summary_Patient_Demographics_Section_9
+Thomas ico Thomas ico
+Employee PAU for Power BI RLS Employee PAU for Power BI RLS
+
+ExperityHealth Calibrater files - Child ExperityHealth Calibrater files - Child  -  ExperityHealth
+ExperityHealth DocuTap files - Child ExperityHealth DocuTap files - Child  -  ExperityHealth
+ExperityHealth DocuTap files - Master Temp ExperityHealth DocuTap files - Master Temp  -  ExperityHealth
+
+Convert DAT to CSV Convert DAT to DAT to CSV
+FairHealth Benchmarks - CONDUCTOR FairHealth Benchmarks - CONDUCTOR
+FB - ACDC FB - ACDC
+FB - Allowed Medical FB - Allowed Medical
+FB - Master Code and Title Files FB - Master Code and Title Files
+Process CSV Process CSV
+FairHealth Benchmarks CSV - CONDUCTOR FairHealth Benchmarks CSV - CONDUCTOR
+FB CSV - ACDC FB CSV - ACDC
+FB CSV - Allowed Medical FB CSV - Allowed Medical
+FB CSV - Master Code and Title Files FB CSV - Master Code and Title Files
+
+iCIMS - Closed req report - Child iCIMS - Child  -  iCIMS
+iCIMS - Closed req report - Master from BLOB iCIMS - Master from BLOB  -  iCIMS
+iCIMS - Open req report - Child iCIMS - Child  -  iCIMS
+
+Kronos - Process Employee Hours by Labor Account - Child Kronos - Child  -  Kronos
+
+Lawson get GL data Lawson get GL data Lawson get GL data  
+Get Financial data - Radiology Get Financial data - Radiology  - 
+Get PAU Master data Get PAU Master data Get PAU Master data  
+
+Orbits Blob to SQL Orbits Blob to SQL
+
+NightLight - Charges Submission Payment Forecast NightLight - Charges Submission Payment Forecast  -  NightLight
+NightLight - Charges Submission Payment Forecast_Deprecated NightLight - Charges Submission Payment Forecast_Deprecated  -  NightLight
+NightLight - SQL for Volume NightLight - SQL for Volume  -  NightLight
+
+Nightlite - Demographics Nightlite - Demographics
+Nightlite - DR Schedule Nightlite - DR Schedule
+Nightlite - Payment_ADU File Nightlite - Payment_ADU File
+Nightlite - Provider Codes Nightlite - Provider Codes
+Nightlite - RCM Daily Nightlite - RCM Daily
+Nightlite - RCM Daily_Full Nightlite - RCM Daily_Full
+Nightlite - RCM Daily_Full_copy1 Nightlite - RCM Daily_Full_copy1
+Nightlite - Referring Doctor Nightlite - Referring Doctor
+Nightlite - Volume Nightlite - Volume
+Nightlite - Volume_ADU File Nightlite - Volume_ADU File
+Nightlite - WaitTime Nightlite - WaitTime
+Nightlite - WaitTime - Errorer Nightlite - Errorer
+Nightlite - WaitTime Child Nightlite - WaitTime Child
+Historical - Not Active Historical - Not Active
+Historical File Load 2019-21 Historical File Load 2019-21
+Nightlite - Initial Test Load Nightlite - Initial Test Load
+NPI NPI
+NPI data incremental - Weekly NPI data incremental - Weekly  -  NPI
+
+OracleAccountHierarchy - BLOB to SQL OracleAccountHierarchy - BLOB to SQL  - 
+OracleCodes - BLOB to SQL - Deprecated OracleCodes - Deprecated  - 
+Subledger - BLOB to SQL latest version Subledger - BLOB to SQL latest version  - 
+Subledger - SFTP to BLOB Subledger - SFTP to BLOB  - 
+Journal Subledger Journal Subledger
+Oracle - Closing Smart View Oracle - Closing Smart View
+Oracle - Closing Smart View_copy1 Oracle - Closing Smart View_copy1
+Cloud Financials Cloud Financials
+Oracle test Oracle test
+Staffing Models Staffing Models
+Oracle - Staffing Models Oracle - Staffing Models
+Oracle - Staffing Models_copy1 Oracle - Staffing Models_copy1
+
+PMD  PMD  PMD    PMD
+PMD _Historical PMD _Historical PMD _Historical  
+Datasets Datasets Datasets  
+QGenda QGenda
+QGenda_Schedule_ForEach_Month QGenda_Schedule_ForEach_Month QGenda_Schedule_ForEach_Month  
+Reputation.com Reputation.com
+Reputation_com - Save export csv by link Reputation_com - Save export csv by link  - 
+
+API Call for NPI API Call for NPI API Call for NPI  
+PhysicianList CSV PhysicianList CSV PhysicianList CSV  
+RCM Multi Ins 1-time historical load RCM Multi Ins 1-time historical load RCM Multi Ins 1-time historical load  
+SolvHealth Patient - BLOB to SQL SolvHealth Patient - BLOB to SQL  -  SolvHealth
+SolvHealth Patient - SFTP to BLOB SolvHealth Patient - SFTP to BLOB  - 
+
+Symplr - All Status Aging and Processing - Child 20220525 Symplr - Child 20220525
+Symplr - All Status Aging and Processing - Manual 2 Symplr - Manual 2
+Symplr - All Status Aging and Processing - Manual force copy Symplr - Manual force copy
+Symplr - All Status Aging and Processing OLD Symplr - All Status Aging and Processing OLD
+Symplr - All Status Aging and Processing OLD 2 Symplr - All Status Aging and Processing OLD 2
+Symplr - All Status Aging and Processing OLD 3 Symplr - All Status Aging and Processing OLD 3
+Symplr - All Status Aging and Processing OLD Manual Symplr - All Status Aging and Processing OLD Manual
+Symplr - All Status Aging and Processing OLD Manual2 Symplr - All Status Aging and Processing OLD Manual2
+When source is CSV When source is source is CSV
+Symplr - All Status Aging and Processing Symplr - All Status Aging and Processing
+Symplr - All Status Aging and Processing - Child CSV Symplr - Child CSV
+Symplr - All Status Aging and Processing - Child XLSX Symplr - Child XLSX
+Symplr - All Status Aging and Processing - Manual Symplr - Manual
+When source is XLSX When source is source is XLSX
+Symplr - All Status Aging and Processing XLSX - Manual Symplr - Manual
+
+Etest Etest Etest  
+UltiPro - Auth UltiPro - Auth  -  UltiPro
+UltiPro - Disciplinary Action Report - Master UltiPro - Master  -  UltiPro
+UltiPro - Employee Payroll Earnings - Historical UltiPro - Historical  -  UltiPro
+UltiPro - Pediatrix and Obstetrix - Child UltiPro - Child  -  UltiPro
+UltiPro - Pediatrix and Obstetrix Comp - Child UltiPro - Child  -  UltiPro
+UltiPro - Run and Retrieve Report UltiPro - Run and Retrieve Report  - 
+Bulk table copy from Azure to Azure Bulk table copy from Azure to Azure Bulk table copy from Azure to Azure  
+Get Object list from DB Get Object list from DB Get Object list from DB  
+Process STAGING table Process STAGING table Process STAGING table  
+Run Python - Convert XLSX to CSV Run Python - Convert XLSX to CSV  - 
+Send email on failure Send email on failure Send email on failure  
+SQL Server Elastic Pool - get List SQL Server Elastic Pool - get List  - 
+SQL Server Elastic Pool - scale up SQL Server Elastic Pool - scale up  - 
+
+VQ - GPMS VQ - GPMS  - 
+VQ - NG Child VQ - NG Child  - 
+VQ - NG fixed date VQ - NG fixed date  - 
+When I Work When I I Work
+CONDUCTOR of WhenIWork CONDUCTOR of WhenIWork CONDUCTOR of WhenIWork  
+WhenIWork Positions WhenIWork Positions WhenIWork Positions  
+WhenIWork Shifts - ForEach Year WhenIWork Shifts - ForEach Year  - 
+WhenIWork Shifts - using DateRange WhenIWork Shifts - using DateRange  - 
+X12 (EDI 835) X12 (EDI (EDI 835)
+X12 835 to JSON X12 835 to JSON X12 835 to JSON  
+Zotec Charges and Trans - SFTP to BLOB Zotec Charges and Trans - SFTP to BLOB  - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FairHealth Benchmarks ACDC FairHealth Benchmarks ACDC Benchmarks ACDC  
+PMDAllVisits PMDAllVisits  
+PMDAllVisits_CustomData PMDAllVisits_CustomData  
+Finance_Datamart_ Finance_Datamart_
+
+
+R1_Export R1_Export
